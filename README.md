@@ -1,18 +1,15 @@
 # Speech-to-Text API
 
-## Overview
-
-This project provides a Speech-to-Text API service using FastAPI and the SpeechRecognition library. It allows users to convert audio files to text through a simple REST API.
+This project provides a FastAPI-based web service to convert audio files to text using the SpeechRecognition library.
 
 ## Features
 
-- Convert various audio formats to text (MP3, WAV, etc.)
-- Support for multiple languages (currently set to Thai)
-- RESTful API for easy integration
-- File upload and base64 encoded audio support
-- Configurable speech recognition engine
+- Convert various audio formats (MP3, WAV, etc.) to text.
+- Support for multiple languages (currently set to Thai).
+- Update speech recognition engine and language dynamically via API.
+- Support for both file upload and base64 encoded audio input.
 
-## Prerequisites
+## Requirements
 
 - Python 3.9+
 - FastAPI
@@ -24,27 +21,27 @@ This project provides a Speech-to-Text API service using FastAPI and the SpeechR
 
 1. Clone the repository:
 
-```
-git clone https://github.com/PongpreechaSuea/Speech2Text.git
-cd Speech2Text
-```
+    ```bash
+    git clone https://github.com/PongpreechaSuea/Speech2Text.git
+    cd Speech2Text
+    ```
 
 2. Create a virtual environment and activate it:
 
-```
-python -m venv venv
-source venv/bin/activate  # On Windows use venv\Scripts\activate
-```
-
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use venv\Scripts\activate
+    ```
 
 3. Install the required packages:
-```
-pip install -r requirements.txt
-```
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Configuration
 
-Edit the `config.py` file to adjust settings such as:
+Update the config.py file with your desired settings:
 
 - Speech recognition engine
 - Default language
