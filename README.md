@@ -80,3 +80,8 @@ url = "http://localhost:3000/v1/api/using/speech2text"
 files = {"file": open("audio.mp3", "rb")}
 response = requests.post(url, files=files)
 print(response.json())
+```
+
+<p align="center">
+  <img src="images/image1.png" alt="Speech-to-Text API Overview" width="800">
+</p>
