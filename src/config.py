@@ -4,7 +4,7 @@ import os
 # Service Configuration
 CLASS_MODEL: Final[str] = "Speech-to-Text"
 ENGINE: Final[str] = "speech_recognition"
-LANGUAGE: Final[str] = "th"
+LANGUAGE: Final[str] = "en-US"
 
 # File Paths
 BASE_DIR: Final[str] = os.path.dirname(os.path.abspath(__file__))
