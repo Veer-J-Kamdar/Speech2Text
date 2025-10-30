@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+SpeechRecognition
+moviepy
+urllib3
+pydub
+requests
+PyPDF2
+python-multipart

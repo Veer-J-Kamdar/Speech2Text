@@ -1,0 +1,137 @@
+2025-08-28 18:17:40,073 - INFO - ================================================================================
+2025-08-28 18:17:40,073 - INFO - Single file processing
+2025-08-28 18:17:40,074 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 18:17:40,074 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 18:17:40,419 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 18:17:41,586 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 19:22:22,687 - INFO - ================================================================================
+2025-08-28 19:22:22,689 - INFO - Single file processing
+2025-08-28 19:22:22,690 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 19:22:22,690 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 19:22:22,921 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 19:22:24,395 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 19:22:43,714 - INFO - ================================================================================
+2025-08-28 19:22:43,714 - INFO - Single file processing
+2025-08-28 19:22:43,715 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 19:22:43,715 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 19:22:43,831 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 19:22:45,544 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 19:25:50,920 - INFO - ================================================================================
+2025-08-28 19:25:50,920 - INFO - Single file processing
+2025-08-28 19:25:50,920 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 19:25:50,921 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 19:25:51,046 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 19:25:52,340 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 20:05:07,589 - INFO - ================================================================================
+2025-08-28 20:05:07,589 - INFO - Single file processing
+2025-08-28 20:05:07,590 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:05:07,590 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:05:07,624 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:47:41,320 - INFO - ================================================================================
+2025-08-28 20:47:41,320 - INFO - Single file processing
+2025-08-28 20:47:41,320 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:47:41,321 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:47:41,344 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:56:01,151 - INFO - ================================================================================
+2025-08-28 20:56:01,151 - INFO - Single file processing
+2025-08-28 20:56:01,151 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:56:01,152 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:56:01,168 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:56:30,338 - INFO - ================================================================================
+2025-08-28 20:56:30,338 - INFO - Single file processing
+2025-08-28 20:56:30,338 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:56:30,339 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:56:30,353 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:56:34,477 - INFO - ================================================================================
+2025-08-28 20:56:34,478 - INFO - Single file processing
+2025-08-28 20:56:34,478 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:56:34,478 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:56:34,492 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:56:43,722 - INFO - ================================================================================
+2025-08-28 20:56:43,722 - INFO - Single file processing
+2025-08-28 20:56:43,723 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:56:43,723 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:56:43,739 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 20:59:50,005 - INFO - ================================================================================
+2025-08-28 20:59:50,005 - INFO - Single file processing
+2025-08-28 20:59:50,006 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 20:59:50,006 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 20:59:50,020 - ERROR - Error processing file ./temp/recording.wav: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-08-28 21:36:51,332 - INFO - ================================================================================
+2025-08-28 21:36:51,332 - INFO - Single file processing
+2025-08-28 21:36:51,333 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:36:51,333 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:36:51,607 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:36:52,972 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:38:38,786 - INFO - ================================================================================
+2025-08-28 21:38:38,786 - INFO - Single file processing
+2025-08-28 21:38:38,786 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:38:38,787 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:38:38,924 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:38:40,152 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:39:40,320 - INFO - ================================================================================
+2025-08-28 21:39:40,320 - INFO - Single file processing
+2025-08-28 21:39:40,320 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:39:40,320 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:39:40,413 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:39:41,566 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:42:11,954 - INFO - ================================================================================
+2025-08-28 21:42:11,954 - INFO - Single file processing
+2025-08-28 21:42:11,955 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:42:11,955 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:42:12,076 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:42:13,152 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:42:47,962 - INFO - ================================================================================
+2025-08-28 21:42:47,962 - INFO - Single file processing
+2025-08-28 21:42:47,963 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:42:47,963 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:42:48,090 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:42:49,039 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:43:48,251 - INFO - ================================================================================
+2025-08-28 21:43:48,252 - INFO - Single file processing
+2025-08-28 21:43:48,252 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:43:48,252 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:43:48,369 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:43:49,605 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:45:11,246 - INFO - ================================================================================
+2025-08-28 21:45:11,246 - INFO - Single file processing
+2025-08-28 21:45:11,247 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:45:11,247 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:45:11,365 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:45:12,737 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:54:19,514 - INFO - ================================================================================
+2025-08-28 21:54:19,514 - INFO - Single file processing
+2025-08-28 21:54:19,514 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:54:19,514 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:54:19,626 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:54:20,330 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 21:57:50,450 - INFO - ================================================================================
+2025-08-28 21:57:50,450 - INFO - Single file processing
+2025-08-28 21:57:50,451 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 21:57:50,451 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 21:57:50,551 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 21:57:51,615 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-28 22:02:43,589 - INFO - ================================================================================
+2025-08-28 22:02:43,589 - INFO - Single file processing
+2025-08-28 22:02:43,589 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-28 22:02:43,590 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-28 22:02:43,712 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-28 22:02:44,733 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-08-29 19:33:46,422 - INFO - ================================================================================
+2025-08-29 19:33:46,429 - INFO - Single file processing
+2025-08-29 19:33:46,441 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-08-29 19:33:46,442 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-08-29 19:33:46,679 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-08-29 19:33:47,837 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-09-17 22:03:06,955 - INFO - ================================================================================
+2025-09-17 22:03:06,965 - INFO - Single file processing
+2025-09-17 22:03:06,970 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\json
+2025-09-17 22:03:06,971 - INFO - Created directory: D:\Work\Samvaad\Speech2Text\src\temp\sound
+2025-09-17 22:03:07,391 - INFO - Converted file: [./temp/recording.m4a] to WAV [D:\Work\Samvaad\Speech2Text\src\temp\sound/recording.wav]
+2025-09-17 22:03:08,290 - WARNING - Speech Recognition could not understand audio: ./temp/recording.m4a
+2025-09-17 22:03:08,290 - INFO - Successfully processed file: ./temp/recording.m4a
+2025-10-16 22:50:12,984 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
